@@ -3,6 +3,7 @@ working_directory "/apps/Hoot"
 
 preload_app true
 timeout 2
+timeout 3
 
 listen "/var/run/unicorn/hoot/socket"
 pid "/var/run/unicorn/hoot/pid"
