@@ -1,5 +1,3 @@
-#!/usr/bin/env ruby19
-
 require 'rubygems'
 require 'sinatra'
 

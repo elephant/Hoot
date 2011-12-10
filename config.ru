@@ -1,6 +1,4 @@
-#!/usr/bin/env ruby19
-
-require 'app'
+load 'app.rb'
 
 use Rack::ShowExceptions
 
